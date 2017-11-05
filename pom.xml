@@ -454,11 +454,7 @@
                 </plugins>
             </build>
         </profile>
-   </profiles>
-
-    <url>demopetclinic</url>
-    
-    <distributionManagement>
+            <distributionManagement>
         
         <repository>
             <id>releases</id>
@@ -473,4 +469,9 @@
         </repository>
     </distributionManagement>
         
+   </profiles>
+
+    <url>demopetclinic</url>
+    
+
 </project>
